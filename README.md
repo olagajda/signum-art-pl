@@ -6,7 +6,7 @@ The simplicity of the design made every detail count even more.
 
 It is my first Wordpress theme. Initiated with [Underscores](http://underscores.me/).
 
-The site will go live ina few weeks.
+The site will go live in a few weeks.
 To be viewed temporarily here: [CLICK](http://signum.olagjd.com/en/).
 
 ![](http://img.olagjd.com/signum-land.png)
