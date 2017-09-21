@@ -9,9 +9,9 @@ It is my first WordPress theme. Initiated with [Underscores](http://underscores.
 See it here: [CLICK](http://signum.art.pl/en/). 
 
 
-![](http://img.olagjd.com/signum-land.png)
+![](http://img.aleksandragajda.com/signum-land.png)
 
-![](http://img.olagjd.com/signum-contact.gif)
+![](http://img.aleksandragajda.com/signum-contact.gif)
 
 
 
